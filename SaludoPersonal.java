@@ -1,9 +1,7 @@
-/**
- * HolaMundo
- */
 public class SaludoPersonal {
 
     public static void main(String[] args) {
-        System.out.println("cesar,bienvenido al curso de programacion en java");
+        System.out.println("Cesar, bienvenido al curso de Programación en Java!!!");
     }
+    
 }
